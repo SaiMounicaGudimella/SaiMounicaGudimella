@@ -1,9 +1,8 @@
 ### Hello World 👋 It's [Mounica!](https://SaiMounicaGudimella.github.io/MyPortfolio/)
 
 <br/>
-<a href="https://www.linkedin.com/in/sai-mounica-gudimella/">
-<img align="left" alt="Mounica" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 <br />
 
 ## Hi There! 👨‍💻
@@ -13,13 +12,17 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 - I hold a Master's degree in Business Analytics focused in Statistics and bachelors in Computer Science❤✌
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
+
+<a href="https://www.linkedin.com/in/sai-mounica-gudimella/">
+<img align="left" alt="Mounica" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <br />
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
+![R](https://img.shields.io/badge/r-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PowerBI](https://img.shields.io/badge/powerbi-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/tableau-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/excel-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
 # 💻 Link to all my projects:
 

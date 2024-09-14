@@ -11,6 +11,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 - I hold a Master's degree in Business Analytics focused in Statistics and bachelors in Computer Science❤✌
 
 <br />
+
 ## Reach out via LinkedIn- 👨‍💻
 <a href="https://www.linkedin.com/in/sai-mounica-gudimella/">
 <img align="left" alt="Mounica" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

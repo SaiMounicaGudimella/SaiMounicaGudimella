@@ -3,7 +3,9 @@
 
 <br/>
 I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast. 
-- I love Programming and Problem Solving and been coding from the last 10 years.
+<br/>
+
+- I love Programming, Problem Solving and coding from the last 10 years.
 - Profound interest in building projects and products that 'stick'.
 - I hold a Master's degree in Business Analytics focused in Statistics and bachelors in Computer Science❤✌
 

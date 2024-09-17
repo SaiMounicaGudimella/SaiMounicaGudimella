@@ -20,6 +20,8 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 # 💻 Link to all my articles:
 
 1. [Model performance metrics]()
+2. [Cross Validation]()
+3. [Model Selection using stepwise regression]()
    
 
 # 💻 Link to all my projects:

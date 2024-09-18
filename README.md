@@ -21,7 +21,8 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 
 1. [Model performance metrics]()
 2. [Cross Validation]()
-3. [Model Selection using stepwise regression]()
+3. [Outlier analysis]()
+4. [Model Selection using stepwise regression]()
    
 
 # 💻 Link to all my projects:

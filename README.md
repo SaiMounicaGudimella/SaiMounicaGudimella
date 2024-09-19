@@ -20,15 +20,15 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 # 💻 Link to all my articles:
 
 1. [Model performance metrics]()
-2. [Cross Validation]()
+2. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
 3. [Outlier analysis]()
-4. [Model Selection using stepwise regression]()
+4. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
    
 
 # 💻 Link to all my projects:
 
 1. [Simple Linear Regression](https://github.com/SaiMounicaGudimella/Simple-Linear-Regression)
-2. [Multiple Linear Regression]()
+2. [Multiple Linear Regression](https://github.com/SaiMounicaGudimella/Insurance-Premium-Prediction)
 3. [Logistic Regression]()
 4. [Naive Bayes]()
 5. [K Nearest Neighbors]()

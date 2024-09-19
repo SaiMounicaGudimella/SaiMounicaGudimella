@@ -29,7 +29,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 
 1. [Simple Linear Regression](https://github.com/SaiMounicaGudimella/Simple-Linear-Regression)
 2. [Multiple Linear Regression](https://github.com/SaiMounicaGudimella/Insurance-Premium-Prediction)
-3. [Logistic Regression]()
+3. [Logistic Regression](https://github.com/SaiMounicaGudimella/MarketingCampaignConversion)
 4. [Naive Bayes]()
 5. [K Nearest Neighbors]()
 6. [KMeans Clustering]()

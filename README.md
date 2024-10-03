@@ -19,10 +19,11 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 
 # 💻 Link to all my articles:
 
-1. [Model performance metrics]()
-2. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
-3. [Outlier analysis]()
-4. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
+1. [Hypothesis Testing - Large sample size using Zscore - Clickthrough rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-large-sample-size-1d2b5eb75f8d) 
+2. [Model performance metrics]()
+3. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
+4. [Outlier analysis]()
+5. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
    
 
 # 💻 Link to all my projects:

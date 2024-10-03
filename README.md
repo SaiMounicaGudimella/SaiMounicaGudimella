@@ -20,7 +20,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 # 💻 Link to all my articles:
 
 1. [Hypothesis Testing - Large sample size using Z score - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-large-sample-size-1d2b5eb75f8d)
-2. [Hypothesis Testing - Small sample size using T test - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-large-sample-size-1d2b5eb75f8d) 
+2. [Hypothesis Testing - Small sample size using T test - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-small-sample-size-d5ad85e48b9d) 
 3. [Model performance metrics]()
 4. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
 5. [Outlier analysis]()

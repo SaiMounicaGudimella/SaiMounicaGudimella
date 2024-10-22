@@ -17,6 +17,11 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 </a>
 <br />
 
+# 💻 Link to all Quant Finance projects:
+
+1. [Pairs Trading Algorithm](https://github.com/SaiMounicaGudimella/Pairs-Trading-Strategy)
+
+
 # 💻 Link to all my articles:
 
 1. [Hypothesis Testing - Large sample size using Z score - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-large-sample-size-1d2b5eb75f8d)

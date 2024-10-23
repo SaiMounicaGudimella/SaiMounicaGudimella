@@ -20,7 +20,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 # 💻 Link to all Quant Finance projects:
 
 1. [Pairs Trading Algorithm](https://github.com/SaiMounicaGudimella/Pairs-Trading-Strategy)
-
+2. [Stock Prediction based on News](https://github.com/SaiMounicaGudimella/Stock-Prediction)
 
 # 💻 Link to all my articles:
 

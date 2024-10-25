@@ -21,6 +21,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 
 1. [Pairs Trading Algorithm](https://github.com/SaiMounicaGudimella/Pairs-Trading-Strategy)
 2. [Stock Prediction based on News](https://github.com/SaiMounicaGudimella/Stock-Prediction)
+3. [Forecasting Basics](https://github.com/SaiMounicaGudimella/ForecastingBasics)
 
 # 💻 Link to all my articles:
 

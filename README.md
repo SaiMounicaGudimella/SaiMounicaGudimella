@@ -22,14 +22,14 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 1. [Pairs Trading Algorithm](https://github.com/SaiMounicaGudimella/Pairs-Trading-Strategy)
 2. [Stock Prediction based on News](https://github.com/SaiMounicaGudimella/Stock-Prediction)
 3. [Forecasting Basics](https://github.com/SaiMounicaGudimella/ForecastingBasics)
+4. [Model performance metrics]()
 
 # 💻 Link to all my articles:
 
 1. [Hypothesis Testing - Large sample size using Z score - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-large-sample-size-1d2b5eb75f8d)
 2. [Hypothesis Testing - Small sample size using T test - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-small-sample-size-d5ad85e48b9d) 
-3. [Model performance metrics]()
-4. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
-5. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
+3. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
+4. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
    
 
 # 💻 Link to all my projects:

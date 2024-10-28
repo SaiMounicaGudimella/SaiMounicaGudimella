@@ -23,7 +23,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 2. [Stock Prediction based on News](https://github.com/SaiMounicaGudimella/Stock-Prediction)
 3. [Forecasting Basics](https://github.com/SaiMounicaGudimella/ForecastingBasics)
 4. [Model performance metrics]()
-5. [Univariate time series - AR model - Autoregressive]()
+5. [Univariate time series - AR model - Autoregressive](https://github.com/SaiMounicaGudimella/Autoregressive-model)
 
 # 💻 Link to all my articles:
 

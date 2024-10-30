@@ -22,7 +22,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 1. [Pairs Trading Algorithm](https://github.com/SaiMounicaGudimella/Pairs-Trading-Strategy)
 2. [Stock Prediction based on News](https://github.com/SaiMounicaGudimella/Stock-Prediction)
 3. [Forecasting Basics](https://github.com/SaiMounicaGudimella/ForecastingBasics)
-4. [Model performance metrics]()
+4. [Model performance metrics](https://mounicag.medium.com/confusion-matrix-why-so-confusing-18e52a9910ac)
 5. [Univariate time series - AR model - Autoregressive](https://github.com/SaiMounicaGudimella/Autoregressive-model)
 
 # 💻 Link to all my articles:

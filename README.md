@@ -17,23 +17,23 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 </a>
 <br />
 
-# 💻 Link to all Forecasting projects:
+# 💻 Forecasting projects:
 
 1. [Pairs Trading Algorithm](https://github.com/SaiMounicaGudimella/Pairs-Trading-Strategy)
 2. [Stock Prediction based on News](https://github.com/SaiMounicaGudimella/Stock-Prediction)
 3. [Forecasting Basics](https://github.com/SaiMounicaGudimella/ForecastingBasics)
-4. [Model performance metrics](https://mounicag.medium.com/confusion-matrix-why-so-confusing-18e52a9910ac)
-5. [Univariate time series - AR model - Autoregressive](https://github.com/SaiMounicaGudimella/Autoregressive-model)
+4. [Univariate time series - AR model - Autoregressive](https://github.com/SaiMounicaGudimella/Autoregressive-model)
 
-# 💻 Link to all my articles:
+# 💻 My articles on Medium:
 
 1. [Hypothesis Testing - Large sample size using Z score - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-large-sample-size-1d2b5eb75f8d)
-2. [Hypothesis Testing - Small sample size using T test - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-small-sample-size-d5ad85e48b9d) 
-3. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
-4. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
+2. [Hypothesis Testing - Small sample size using T test - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-small-sample-size-d5ad85e48b9d)
+3. [Model performance metrics](https://mounicag.medium.com/confusion-matrix-why-so-confusing-18e52a9910ac)
+4. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
+5. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
    
 
-# 💻 Link to all my projects:
+# 💻 Data Science projects:
 
 1. [Simple Linear Regression](https://github.com/SaiMounicaGudimella/Simple-Linear-Regression)
 2. [Multiple Linear Regression](https://github.com/SaiMounicaGudimella/Insurance-Premium-Prediction)
@@ -43,8 +43,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 6. [Websraping - BeautifulSoup](https://github.com/SaiMounicaGudimella/WebScraping-Amazon-Books)
 7. [Experimentation](https://github.com/SaiMounicaGudimella/Experimentation_WebsiteDesign_ConversionRate)
 8. [Sentiment Analysis](https://github.com/SaiMounicaGudimella/SentimentAnalysis)
-9. [Recommender System]()
-10. [Customer Segmentation](https://github.com/SaiMounicaGudimella/CustomerSegmentation)
+9. [Customer Segmentation](https://github.com/SaiMounicaGudimella/CustomerSegmentation)
 
 I'll be updating this repository regularly, so keep an eye out for the latest additions!
 

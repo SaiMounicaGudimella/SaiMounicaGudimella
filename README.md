@@ -39,7 +39,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 2. [Multiple Linear Regression](https://github.com/SaiMounicaGudimella/Insurance-Premium-Prediction)
 3. [Naive Bayes Classification](https://github.com/SaiMounicaGudimella/Naive-Bayes-Spam-Classifier)
 4. [Decision Tree]()
-5. [Random Forests]()
+5. [Random Forests](https://github.com/SaiMounicaGudimella/Random-Forest-Implementation)
 6. [Logistic Regression](https://github.com/SaiMounicaGudimella/MarketingCampaignConversion)
 7. [End to end Regression Project](https://github.com/SaiMounicaGudimella/StudentPerformancePrediction-End-to-end-ML-Project)
 8. [Websraping - BeautifulSoup](https://github.com/SaiMounicaGudimella/WebScraping-Amazon-Books)

@@ -38,12 +38,14 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 1. [Simple Linear Regression](https://github.com/SaiMounicaGudimella/Simple-Linear-Regression)
 2. [Multiple Linear Regression](https://github.com/SaiMounicaGudimella/Insurance-Premium-Prediction)
 3. [Naive Bayes Classification](https://github.com/SaiMounicaGudimella/Naive-Bayes-Spam-Classifier)
-4. [Logistic Regression](https://github.com/SaiMounicaGudimella/MarketingCampaignConversion)
-5. [End to end Regression Project](https://github.com/SaiMounicaGudimella/StudentPerformancePrediction-End-to-end-ML-Project)
-6. [Websraping - BeautifulSoup](https://github.com/SaiMounicaGudimella/WebScraping-Amazon-Books)
-7. [Experimentation](https://github.com/SaiMounicaGudimella/Experimentation_WebsiteDesign_ConversionRate)
-8. [Sentiment Analysis](https://github.com/SaiMounicaGudimella/SentimentAnalysis)
-9. [Customer Segmentation](https://github.com/SaiMounicaGudimella/CustomerSegmentation)
+4. [Decision Tree]()
+5. [Random Forests]()
+6. [Logistic Regression](https://github.com/SaiMounicaGudimella/MarketingCampaignConversion)
+7. [End to end Regression Project](https://github.com/SaiMounicaGudimella/StudentPerformancePrediction-End-to-end-ML-Project)
+8. [Websraping - BeautifulSoup](https://github.com/SaiMounicaGudimella/WebScraping-Amazon-Books)
+9. [Experimentation](https://github.com/SaiMounicaGudimella/Experimentation_WebsiteDesign_ConversionRate)
+10. [Sentiment Analysis](https://github.com/SaiMounicaGudimella/SentimentAnalysis)
+11. [Customer Segmentation](https://github.com/SaiMounicaGudimella/CustomerSegmentation)
 
 I'll be updating this repository regularly, so keep an eye out for the latest additions!
 

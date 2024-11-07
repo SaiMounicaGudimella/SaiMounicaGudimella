@@ -40,12 +40,13 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 3. [Naive Bayes Classification](https://github.com/SaiMounicaGudimella/Naive-Bayes-Spam-Classifier)
 4. [Decision Tree](https://github.com/SaiMounicaGudimella/Decision-Tree-Implementation)
 5. [Random Forests](https://github.com/SaiMounicaGudimella/Random-Forest-Implementation)
-6. [Logistic Regression](https://github.com/SaiMounicaGudimella/MarketingCampaignConversion)
-7. [End to end Regression Project](https://github.com/SaiMounicaGudimella/StudentPerformancePrediction-End-to-end-ML-Project)
-8. [Websraping - BeautifulSoup](https://github.com/SaiMounicaGudimella/WebScraping-Amazon-Books)
-9. [Experimentation](https://github.com/SaiMounicaGudimella/Experimentation_WebsiteDesign_ConversionRate)
-10. [Sentiment Analysis](https://github.com/SaiMounicaGudimella/SentimentAnalysis)
-11. [Customer Segmentation](https://github.com/SaiMounicaGudimella/CustomerSegmentation)
+6. [Decision Tree vs Random Forest](https://github.com/SaiMounicaGudimella/Census-Data-Income-Prediction)
+7. [Logistic Regression](https://github.com/SaiMounicaGudimella/MarketingCampaignConversion)
+8. [End to end Regression Project](https://github.com/SaiMounicaGudimella/StudentPerformancePrediction-End-to-end-ML-Project)
+9. [Websraping - BeautifulSoup](https://github.com/SaiMounicaGudimella/WebScraping-Amazon-Books)
+10. [Experimentation](https://github.com/SaiMounicaGudimella/Experimentation_WebsiteDesign_ConversionRate)
+11. [Sentiment Analysis](https://github.com/SaiMounicaGudimella/SentimentAnalysis)
+12. [Customer Segmentation](https://github.com/SaiMounicaGudimella/CustomerSegmentation)
 
 I'll be updating this repository regularly, so keep an eye out for the latest additions!
 

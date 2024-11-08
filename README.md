@@ -17,12 +17,6 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 </a>
 <br />
 
-# 💻 Forecasting projects:
-
-1. [Pairs Trading Algorithm](https://github.com/SaiMounicaGudimella/Pairs-Trading-Strategy)
-2. [Stock Prediction based on News](https://github.com/SaiMounicaGudimella/Stock-Prediction)
-3. [Forecasting Basics](https://github.com/SaiMounicaGudimella/ForecastingBasics)
-4. [Univariate time series - AR model - Autoregressive](https://github.com/SaiMounicaGudimella/Autoregressive-model)
 
 # 💻 My articles on Medium:
 
@@ -33,7 +27,7 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 5. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
    
 
-# 💻 Data Science projects:
+# 💻 Basic ML Implementation:
 
 1. [Simple Linear Regression](https://github.com/SaiMounicaGudimella/Simple-Linear-Regression)
 2. [Multiple Linear Regression](https://github.com/SaiMounicaGudimella/Insurance-Premium-Prediction)
@@ -44,10 +38,16 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 7. [Support Vector Machines](https://github.com/SaiMounicaGudimella/Support-Vector-Machines)
 8. [Logistic Regression](https://github.com/SaiMounicaGudimella/MarketingCampaignConversion)
 9. [End to end Regression Project](https://github.com/SaiMounicaGudimella/StudentPerformancePrediction-End-to-end-ML-Project)
-10. [Websraping - BeautifulSoup](https://github.com/SaiMounicaGudimella/WebScraping-Amazon-Books)
-11. [Experimentation](https://github.com/SaiMounicaGudimella/Experimentation_WebsiteDesign_ConversionRate)
-12. [Sentiment Analysis](https://github.com/SaiMounicaGudimella/SentimentAnalysis)
-13. [Customer Segmentation](https://github.com/SaiMounicaGudimella/CustomerSegmentation)
+
+
+# 💻 Forecasting projects:
+
+1. [Pairs Trading Algorithm](https://github.com/SaiMounicaGudimella/Pairs-Trading-Strategy)
+2. [Stock Prediction based on News](https://github.com/SaiMounicaGudimella/Stock-Prediction)
+3. [Forecasting Basics](https://github.com/SaiMounicaGudimella/ForecastingBasics)
+4. [Univariate time series - AR model - Autoregressive](https://github.com/SaiMounicaGudimella/Autoregressive-model)
+
+    
 
 I'll be updating this repository regularly, so keep an eye out for the latest additions!
 

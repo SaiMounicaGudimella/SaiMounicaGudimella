@@ -20,11 +20,12 @@ I'm Mounica🙌, a Data Scientist, and a Gen AI Enthusiast.
 
 # 💻 My articles on Medium:
 
-1. [Hypothesis Testing - Large sample size using Z score - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-large-sample-size-1d2b5eb75f8d)
-2. [Hypothesis Testing - Small sample size using T test - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-small-sample-size-d5ad85e48b9d)
-3. [Model performance metrics](https://mounicag.medium.com/confusion-matrix-why-so-confusing-18e52a9910ac)
-4. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
-5. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
+1. [Data Scientist Interview Guide](https://mounicag.medium.com/data-scientist-interview-guide-11637d499696)
+2. [Hypothesis Testing - Large sample size using Z score - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-large-sample-size-1d2b5eb75f8d)
+3. [Hypothesis Testing - Small sample size using T test - Click through rate and conversion rate](https://mounicag.medium.com/a-b-test-product-analytics-case-study-small-sample-size-d5ad85e48b9d)
+4. [Model performance metrics](https://mounicag.medium.com/confusion-matrix-why-so-confusing-18e52a9910ac)
+5. [Cross Validation](https://github.com/SaiMounicaGudimella/Improving-model-performance)
+6. [Model Selection using stepwise regression](https://github.com/SaiMounicaGudimella/Improving-model-performance)
    
 
 # 💻 Basic ML Implementation:
